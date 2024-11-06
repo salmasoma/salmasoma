@@ -57,6 +57,7 @@ My name is Salma Hassan!
 
 ## 🔹 Project Highlights
 
+- **GNN for Disease Classification**: Implemented a multimodal model using GNN and convolutional methods to predict and classify disease progression in complex datasets, demonstrating improved classification accuracy for neurodegenerative diseases.
 - **AI for Genomics**: Created ML algorithms for analyzing gene expression, including deep learning models trained on large-scale genetic data.
 - **Medical Imaging & Diagnostics**: Developed multimodal ML models for enhanced Alzheimer's and Parkinson's diagnostics.
 - **Data Analysis & Business Intelligence**: Generated actionable insights through Power BI dashboards, enhancing data-driven decision-making.
