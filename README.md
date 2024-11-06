@@ -2,21 +2,30 @@
 
 My name is Salma Hassan!
 
-Welcome! This README outlines my technical skills across AI, ML, and software engineering, showcasing my experience in designing intelligent solutions and my expertise in various technologies.
+🎓 Second-Year Master’s Student in Machine Learning at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) 📚, holding a Bachelor’s in Computer Engineering 🖥️ with a Minor in Data Science 📊. Specializing in AI and ML development 🤖, I have hands-on experience across data analytics, medical imaging 🧠, bioinformatics 🧬, and survival analysis 📈. Driven to advance intelligent systems, I blend a strong engineering foundation with deep expertise in ML, aiming to make impactful contributions through data-driven solutions. 🌟
 
 ---
 
 ## 🔹 Core AI/ML Expertise
 
 - **Machine Learning & AI Development**
-  - 📊 **Data Analysis & Model Development**: Leveraging data-driven insights to design ML models.
-  - 🤖 **Deep Learning**: Experienced with neural networks for classification, segmentation, and generative models.
-  - 🎓 **Predictive Modeling**: Building robust models for predictive analytics across domains like genomics, medical imaging, and NLP.
+  - 📊 **Data Analysis & Model Development**: Leveraging data-driven insights to design ML models across various domains.
+  - 🤖 **Deep Learning**: Experienced with neural networks for classification, segmentation, and generative models, including CNNs, LSTMs, and GNNs.
+  - 🎓 **Predictive Modeling**: Building robust models for predictive analytics in genomics, medical imaging, and clinical applications.
+  - 🌐 **Transformers & NLP**: Developing language models and transformer-based models for tasks like text classification, named entity recognition, and sequence modeling.
+  - 🕵️‍♀️ **Explainable AI (XAI) & Interpretability**: Using techniques like SHAP, LIME, GNNExplainer, and attention mechanisms to make models more transparent, particularly for sensitive applications.
+  - 🔒 **Federated Learning & Privacy-Preserving AI**: Implementing models that allow decentralized learning while preserving data privacy, particularly relevant in healthcare.
+  - 🌱 **Few-Shot and Zero-Shot Learning**: Applying minimal labeled data to train models, ideal for domains with limited annotations like rare diseases.
+  - 🔄 **Self-Supervised Learning**: Leveraging unlabeled data for pre-training, then fine-tuning on smaller labeled datasets, useful in NLP and vision tasks.
+  - ⏳ **Time-Series Analysis & Forecasting**: Utilizing temporal models like RNNs, Transformers, and temporal GNNs to handle sequential data, essential for patient monitoring and finance.
 
 - **Domain-Specific AI Applications**
-  - 🧬 **Genomics & Bioinformatics**: Applying ML for DNA sequence analysis, mutation detection, and gene expression prediction.
-  - 🧠 **Medical Imaging**: Advanced knowledge in MRI/CT segmentation, brain structure analysis, and radiomics.
-  - 📉 **Survival Analysis**: Using foundational models for patient risk stratification and prognosis.
+  - 🧬 **Genomics & Bioinformatics**: Working on the **Genetic Foundation Model (GFM)** project, analyzing DNA sequences for mutation detection, gene expression, and variant impact predictions.
+  - 🧠 **Medical Imaging**: Advanced expertise in MRI/CT segmentation, brain structure analysis, and radiomics, especially for neuroimaging applications in Alzheimer’s and Parkinson’s disease.
+  - 📉 **Survival Analysis**: Using foundational and survival models for patient risk stratification and prognosis, with applications in cancer recurrence prediction and other clinical outcomes.
+  - 🗣️ **NLP Applications**: Implementing transformer-based NLP models for text analysis, document classification, and biomedical language processing tasks.
+  - 🧩 **Multimodal Learning**: Integrating multiple data types (e.g., images, text, genomics) for comprehensive models, especially valuable in medical diagnostics.
+  - 🔍 **3D Computer Vision**: Applying AI for 3D data analysis from CT, MRI, and LiDAR, with applications in medical imaging and autonomous systems.
 
 ---
 
@@ -61,8 +70,11 @@ Welcome! This README outlines my technical skills across AI, ML, and software en
   - 🧬 Bioinformatics: Enformer, ClinVar, LongRoPE
 
 - **Certifications**:
-  - AWS Cloud Practitioner 🌩️
-  - Academic Excellence Award 🎖️
+  - **AWS Cloud Practitioner** 🌩️
+  - **Academic Excellence Award** 🎖️
+  - **Deep Learning Specialization** (Coursera) 📚
+  - **Data Science Professional Certificate** (edX) 📈
+  - **Advanced SQL for Data Scientists** (DataCamp) 💻
 
 ---
 
