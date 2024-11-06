@@ -68,9 +68,9 @@ Welcome! This README outlines my technical skills across AI, ML, and software en
 
 ## 🌐 Let's Connect!
 
-- **Email**: [salmawhassan73@gmail.com](mailto:salmawhassan73@gmail.com)
-- **LinkedIn**: [linkedin.com/in/salmahassan73](https://linkedin.com/in/salmahassan73)
-- **Website**: [salmahassan.framer.ai](https://salmahassan.framer.ai)
+[![Email](https://img.shields.io/badge/Email-salmawhassan73@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:salmawhassan73@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/salmahassan73)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://salmahassan.framer.ai)
 
 Feel free to reach out if you'd like to discuss AI, ML, and software engineering or collaborate on projects!
 
