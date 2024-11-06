@@ -73,7 +73,7 @@ Welcome! This README outlines my technical skills across AI, ML, and software en
 - **Website**: [salmahassan.framer.ai](https://salmahassan.framer.ai)
 
 Feel free to reach out if you'd like to discuss AI, ML, and software engineering or collaborate on projects!
-"""
+
 <!--
 **salmasoma/salmasoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
