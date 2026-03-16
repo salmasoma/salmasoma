@@ -2,7 +2,7 @@
 
 My name is Salma Hassan!
 
-🎓 Second-Year Master’s Student in Machine Learning at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) 📚, holding a Bachelor’s in Computer Engineering 🖥️ with a Minor in Data Science 📊. Specializing in AI and ML development 🤖, I have hands-on experience across data analytics, medical imaging 🧠, bioinformatics 🧬, and survival analysis 📈. Driven to advance intelligent systems, I blend a strong engineering foundation with deep expertise in ML, aiming to make impactful contributions through data-driven solutions. 🌟
+🎓 PhD candidate in Machine Learning at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) 📚, holding a Master's in Machine Learning, and a Bachelor’s in Computer Engineering 🖥️ with a Minor in Data Science 📊. Specializing in AI and ML development 🤖, I have hands-on experience across data analytics, medical imaging 🧠, bioinformatics 🧬, and survival analysis 📈. Driven to advance intelligent systems, I blend a strong engineering foundation with deep expertise in ML, aiming to make impactful contributions through data-driven solutions. 🌟
 
 ---
 
